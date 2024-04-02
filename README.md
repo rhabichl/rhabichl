@@ -15,7 +15,7 @@ I'm a passionate enthusiast of all things tech, especially when it comes to **Li
 - **Golang**: Building high-performance web services with **Fiber**.
 - **C**: Proficient in low-level programming for performance-critical applications.
 - **Java**: Developing robust applications using **Maven** and **Spring Boot**.
-- **Python**: Expertise in machine learning with **Torch**, data manipulation with **Numpy**, time series forecasting with **Darts**, and building APIs with **FastAPI** and **Flask**. Proficient in statistical modeling with **Statsmodels**.
+- **Python**: Expertise in machine learning with **Torch**, data manipulation with **Numpy**, time series forecasting with **Darts**, and building APIs with **FastAPI** and **Flask**.
 - **Ansible & Terraform**: Automating infrastructure management and provisioning.
 - **Kubernetes & Docker**: Containerizing applications and managing container orchestration.
 - **Linux**: Deep understanding of Linux systems and comfortable with various distributions, especially **Arch Linux**.
